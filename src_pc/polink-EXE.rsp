@@ -1,0 +1,7 @@
+kernel32.lib
+user32.lib
+gdi32.lib
+comctl32.lib
+comdlg32.lib
+advapi32.lib
+delayimp.lib

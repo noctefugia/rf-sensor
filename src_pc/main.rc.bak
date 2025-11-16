@@ -1,0 +1,9 @@
+
+#include "main.auto.h"
+
+1 MANIFEST_RESOURCE "main.manifest.xml"
+
+res1            ICON      DISCARDABLE    "C:/Users/Safecracker/OneDrive/DEV/RF-Sensor/src_pc/res1.ico"
+
+
+
