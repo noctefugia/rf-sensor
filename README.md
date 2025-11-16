@@ -96,7 +96,6 @@
 *   **/src_pc/**: Исходный код приложения для ПК на Win32 API.
 *   **/3d/**: 3D-модели корпусов.
 *   **/img/**: Изображения, схемы и другая медиа-информация по проекту.
-```
 
 ## License
 This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
