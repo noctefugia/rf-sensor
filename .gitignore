@@ -20,7 +20,7 @@
 
 # Build artifacts
 *.dep
-*.stp
+#*.stp
 *.res
 *.rsp
 *.manifest.xml
@@ -29,8 +29,8 @@
 
 # IDE and editor files
 #*.stw
-#*.wdb
-#*.wed
+*.wdb
+*.wed
 #*.ppj
 
 # TAGS files
